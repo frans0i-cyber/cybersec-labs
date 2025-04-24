@@ -14,6 +14,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | Careers in Cyber          | Exploring different roles in cybersecurity                                  |
 | Defensive Security Intro  | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                  |
 | Offensive Security Intro  | Ethical hacking basics and legal web exploitation                           |
+| OSI Model                 | fundamental networking framework                                            |
 
 ## 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
