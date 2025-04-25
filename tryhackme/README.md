@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Packets & Frames**  
+  Understand how data is divided into smaller pieces and transmitted across a network to another device
+  
 - 🔹 **OSI Model**  
   Learned about fundamental networking framework stages
 
