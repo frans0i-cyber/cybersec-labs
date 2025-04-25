@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **OSI Model**  
+  Learned about fundamental networking framework stages
+
 - 🔹 **Intro to LAN**  
   Learned about technologies and designs behind private networks.
 
