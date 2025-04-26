@@ -13,3 +13,6 @@ This room introduced different methods for connecting networks and the reasons f
 
 ## Room Link
 [TryHackMe Room](https://tryhackme.com/room/extendingyournetwork)
+
+## Badge
+[Networking Nerd](https://tryhackme.com/franzlouis.cabig/badges/network-fundamentals)
