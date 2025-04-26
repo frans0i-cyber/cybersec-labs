@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Extending Your Network**  
+  Learn about some of the technologies used to extend networks out onto the Internet
+
 - 🔹 **Packets & Frames**  
   Understand how data is divided into smaller pieces and transmitted across a network to another device
   
