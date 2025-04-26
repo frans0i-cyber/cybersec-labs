@@ -15,4 +15,4 @@ This room introduced different methods for connecting networks and the reasons f
 [TryHackMe Room](https://tryhackme.com/room/extendingyournetwork)
 
 ## Badge
-[Networking Nerd](https://tryhackme.com/franzlouis.cabig/badges/network-fundamentals)
+[Networking Nerd](https://tryhackme.com/franz.cabigas/badges/network-fundamentals)
