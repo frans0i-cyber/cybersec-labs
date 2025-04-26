@@ -16,6 +16,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | Offensive Security Intro  | Ethical hacking basics and legal web exploitation                           |
 | OSI Model                 | Fundamental networking framework                                            |
 | Packets & Frames          | Data division and how it's transmitted across network and devices           |
+| Extend Your Network       | Learn about Technologies used to extend networks out onto the Internet      |
 
 ## 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
