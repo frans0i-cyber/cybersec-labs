@@ -7,17 +7,18 @@ Welcome to my personal cybersecurity labs repository! This is where I document m
 I’m currently working through the TryHackMe Pre-Security path and other foundational modules.
 
 ### ✅ Recently Completed Modules
-| Module Name               | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| Intro to LAN              | Technologies and designs behind private networks                            |
-| What is Networking?       | Fundamentals of computer networking                                         |
-| Careers in Cyber          | Exploring different roles in cybersecurity                                  |
-| Defensive Security Intro  | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                  |
-| Offensive Security Intro  | Ethical hacking basics and legal web exploitation                           |
-| OSI Model                 | Fundamental networking framework                                            |
-| Packets & Frames          | Data division and how it's transmitted across network and devices           |
-| Extend Your Network       | Learn about Technologies used to extend networks out onto the Internet      |
-| DNS in detail             | Learn how DNS works and how it helps you access internet services           |
+| Module Name               | Description                                                                     |
+|---------------------------|---------------------------------------------------------------------------------|
+| Intro to LAN              | Technologies and designs behind private networks                                |
+| What is Networking?       | Fundamentals of computer networking                                             |
+| Careers in Cyber          | Exploring different roles in cybersecurity                                      |
+| Defensive Security Intro  | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                      |
+| Offensive Security Intro  | Ethical hacking basics and legal web exploitation                               |
+| OSI Model                 | Fundamental networking framework                                                |
+| Packets & Frames          | Data division and how it's transmitted across network and devices               |
+| Extend Your Network       | Learn about Technologies used to extend networks out onto the Internet          |
+| DNS in detail             | Learn how DNS works and how it helps you access internet services               |
+| HTTP in detail            | Learn about how you request content from a web server using the HTTP protocol.  |
 
 ## 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
