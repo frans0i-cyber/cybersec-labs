@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **HTTP in detail**  
+  Learn about how you request content from a web server using the HTTP protocol.
+  
 - 🔹 **DNS in detail**  
   Learn how DNS works and how it helps you access internet services.
   
