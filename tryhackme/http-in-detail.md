@@ -14,11 +14,6 @@ This room dives deep into the Hypertext Transfer Protocol (HTTP), the cornerston
 
 ## Commands Used
 N/A (Likely a theory-based resource, but you can add relevant tools if your repo includes practical examples)
-
-*(If your repo includes examples using `curl`, `requests`, browser developer tools, etc., list them here. For example:)*
-
-> - `curl`: For making command-line HTTP requests.
-> - `python -m http.server`: For setting up a simple HTTP server.
 > - Browser Developer Tools (Network Tab): For inspecting HTTP traffic.
 
 ## What I Learned
