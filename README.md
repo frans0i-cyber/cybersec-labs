@@ -20,6 +20,10 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | DNS in detail             | Learn how DNS works and how it helps you access internet services               |
 | HTTP in detail            | Learn about how you request content from a web server using the HTTP protocol.  |
 
+## Badges
+[World Wide Web fundamentals](https://tryhackme.com/franz.cabigas/badges/web-fund)
+[Networking fundamentals](https://tryhackme.com/franz.cabigas/badges/network-fundamentals)
+
 ## 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
 - Introduction to Threat Intelligence
