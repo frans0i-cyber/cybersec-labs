@@ -5,14 +5,17 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **DNS in detail**  
+  Learn how DNS works and how it helps you access internet services.
+  
 - 🔹 **Extending Your Network**  
-  Learn about some of the technologies used to extend networks out onto the Internet
+  Learn about some of the technologies used to extend networks out onto the Internet.
 
 - 🔹 **Packets & Frames**  
-  Understand how data is divided into smaller pieces and transmitted across a network to another device
+  Understand how data is divided into smaller pieces and transmitted across a network to another device.
   
 - 🔹 **OSI Model**  
-  Learned about fundamental networking framework stages
+  Learned about fundamental networking framework stages.
 
 - 🔹 **Intro to LAN**  
   Learned about technologies and designs behind private networks.
