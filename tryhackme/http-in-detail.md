@@ -21,3 +21,4 @@ I gained a comprehensive understanding of the Hypertext Transfer Protocol, inclu
 
 ## Room Link
 [TryHackMe Room](https://tryhackme.com/room/httpindetail)
+[Badge for completion](https://tryhackme.com/franz.cabigas/badges/web-fund)
