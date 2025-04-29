@@ -23,6 +23,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | Putting it all together   | Learn how all the individual components of the web work together                |
 
 ## Badges
+- [How the Web Works](https://tryhackme.com/franz.cabigas/badges/world-wide-web)
 - [World Wide Web fundamentals](https://tryhackme.com/franz.cabigas/badges/web-fund)
 - [Networking fundamentals](https://tryhackme.com/franz.cabigas/badges/network-fundamentals)
 
