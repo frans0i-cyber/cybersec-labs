@@ -20,6 +20,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | DNS in detail             | Learn how DNS works and how it helps you access internet services               |
 | HTTP in detail            | Learn about how you request content from a web server using the HTTP protocol   |
 | How Websites Work         | To exploit a website, you first need to know how they are created               |
+| Putting it all together   | Learn how all the individual components of the web work together                |
 
 ## Badges
 - [World Wide Web fundamentals](https://tryhackme.com/franz.cabigas/badges/web-fund)
