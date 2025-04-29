@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Putting it all together**  
+  Learn how all the individual components of the web work together to bring you access to your favourite web sites.
+  
 - 🔹 **How Websites Work**  
   To exploit a website, you first need to know how they are created.
   
