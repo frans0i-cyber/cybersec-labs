@@ -5,7 +5,7 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
-- 🔹 **How Website Work**  
+- 🔹 **How Websites Work**  
   To exploit a website, you first need to know how they are created.
   
 - 🔹 **HTTP in detail**  
