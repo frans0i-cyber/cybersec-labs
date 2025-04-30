@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Linux Fundamentals pt. 1**  
+  Learn to run some of the first essential commands on an interactive terminal.
+  
 - 🔹 **Putting it all together**  
   Learn how all the individual components of the web work together.
   
