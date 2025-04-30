@@ -27,6 +27,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 - [How the Web Works](https://tryhackme.com/franz.cabigas/badges/world-wide-web)
 - [World Wide Web fundamentals](https://tryhackme.com/franz.cabigas/badges/web-fund)
 - [Networking fundamentals](https://tryhackme.com/franz.cabigas/badges/network-fundamentals)
+- [Linux Fundamentals pt. 1](https://tryhackme.com/franz.cabigas/badges/terminaled)
 
 ## 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
