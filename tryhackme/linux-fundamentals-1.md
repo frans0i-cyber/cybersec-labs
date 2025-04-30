@@ -35,3 +35,6 @@ I gained a foundational understanding of the Linux operating system and the reas
 ## Room Link
 
 [TryHackMe Room](https://tryhackme.com/room/linuxfundamentalspart1)
+
+## Badge
+[Linux Badge pt1](https://tryhackme.com/franz.cabigas/badges/terminaled)
