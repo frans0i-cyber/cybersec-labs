@@ -21,6 +21,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | HTTP in detail            | Learn about how you request content from a web server using the HTTP protocol   |
 | How Websites Work         | To exploit a website, you first need to know how they are created               |
 | Putting it all together   | Learn how all the individual components of the web work together                |
+| Linux Fundamentals pt.1   | Learn to run some of the first essential commands on an interactive terminal    |
 
 ## Badges
 - [How the Web Works](https://tryhackme.com/franz.cabigas/badges/world-wide-web)
