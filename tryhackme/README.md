@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Linux Fundamentals pt. 2**  
+  Learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction.
+  
 - 🔹 **Linux Fundamentals pt. 1**  
   Learn to run some of the first essential commands on an interactive terminal.
   
