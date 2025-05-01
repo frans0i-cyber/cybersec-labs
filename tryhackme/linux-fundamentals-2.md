@@ -36,4 +36,5 @@ This room is the second part of the "Linux Fundamentals" series, building upon t
 
 ## Room Link
 
-[TryHackMe Room](https://tryhackme.com/room/linuxfundamentalspart2)
+- [TryHackMe Room](https://tryhackme.com/room/linuxfundamentalspart2)
+- [Badge](https://tryhackme.com/franz.cabigas/badges/terminaled)
