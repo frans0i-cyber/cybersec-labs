@@ -22,12 +22,14 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | How Websites Work         | To exploit a website, you first need to know how they are created               |
 | Putting it all together   | Learn how all the individual components of the web work together                |
 | Linux Fundamentals pt.1   | Learn to run some of the first essential commands on an interactive terminal    |
+| Linux Fundamentals pt.2   |log in to a Linux machine using SSH, file system interaction.                    |
 
 ## Badges
 - [How the Web Works](https://tryhackme.com/franz.cabigas/badges/world-wide-web)
 - [World Wide Web fundamentals](https://tryhackme.com/franz.cabigas/badges/web-fund)
 - [Networking fundamentals](https://tryhackme.com/franz.cabigas/badges/network-fundamentals)
 - [Linux Fundamentals pt. 1](https://tryhackme.com/franz.cabigas/badges/terminaled)
+- [Linux Fundamentals pt. 2](https://tryhackme.com/franz.cabigas/badges/terminaled)
 
 ## 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
