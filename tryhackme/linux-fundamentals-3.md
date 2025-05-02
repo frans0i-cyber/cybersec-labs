@@ -50,7 +50,7 @@ In this final part of the Linux Fundamentals module, I learned how to effectivel
 ## Room Link
 
 \[[TryHackMe Room](https://tryhackme.com/room/linuxfundamentalspart3)\]
-
+[Badge](https://tryhackme.com/franz.cabigas/badges/terminaled)
 ---
 
 **Continue Your Learning:**
