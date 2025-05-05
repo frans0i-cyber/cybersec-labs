@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Windows Fundamentals pt. 1**  
+  learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
+  
 - 🔹 **Linux Fundamentals pt. 3**  
   hands-on with some common utilities that you are likely to use day-to-day!
   
