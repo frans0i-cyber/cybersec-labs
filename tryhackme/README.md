@@ -5,6 +5,9 @@ Here's my recent progress:
 
 ## ✅ Completed Modules
 
+- 🔹 **Windows Fundamentals pt. 2**  
+  Continuation of pt1.
+  
 - 🔹 **Windows Fundamentals pt. 1**  
   learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..
   
