@@ -25,6 +25,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | Linux Fundamentals pt.2   | log in to a Linux machine using SSH, file system interaction.                   |
 | Linux Fundamentals pt.3   | hands-on with some common utilities that you are likely to use day-to-day       |
 | Windows Fundamentals pt.1 | learning about the Windows desktop, the NTFS file system, UAC and more          | 
+| Windows Fundamentals pt2  | Continuation of Pt1... msconfig, perfmon, resmon, etc...                        |
 
 ## Badges
 - [How the Web Works](https://tryhackme.com/franz.cabigas/badges/world-wide-web)
