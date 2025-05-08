@@ -8,6 +8,13 @@ Welcome to my personal cybersecurity labs repository! This is where I document m
 | Offensive Security        | Ethical hacking basics and legal web exploitation                               |
 | Defensive Security        | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                      |
 
+### Badges
+- [sample](link)
+  
+
+### 💻 Tools & Concepts Practiced
+- `sample'
+
 
 ## ✅ Learning Path: TryHackMe - Pre-Security (COMPLETED)
 
@@ -43,7 +50,7 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 - [Linux Fundamentals pt. 2](https://tryhackme.com/franz.cabigas/badges/terminaled)
 - [Linux Fundamentals pt. 3](https://tryhackme.com/franz.cabigas/badges/terminaled)
 
-## 💻 Tools & Concepts Practiced
+### 💻 Tools & Concepts Practiced
 - `ping`, `traceroute`, `ipconfig`, `ifconfig`
 - Introduction to Threat Intelligence
 - Basics of DFIR (Digital Forensics & Incident Response)
