@@ -4,6 +4,16 @@ This repository contains my personal notes, write-ups, and scripts from the **Cy
 
 ---
 
+## ✅ Recently Completed Modules
+
+- 🔹 **Defensive Security Intro**  
+  Learned about Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.
+
+- 🔹 **Offensive Security Intro**  
+  Practiced ethical hacking in a safe and legal environment.
+
+---
+
 ## 📂 Directory Structure
 
 ---
