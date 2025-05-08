@@ -2,7 +2,14 @@
 
 Welcome to my personal cybersecurity labs repository! This is where I document my hands-on learning journey through platforms like TryHackMe, along with Linux, Python, and automation experiments.
 
-## 🧭 Learning Path: TryHackMe - Pre-Security
+## 🧭 Learning Path: TryHackMe - Cyber Security 101
+| Module Name               | Description                                                                     |
+|---------------------------|---------------------------------------------------------------------------------|
+| Offensive Security        | Ethical hacking basics and legal web exploitation                               |
+| Defensive Security        | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                      |
+
+
+## ✅ Learning Path: TryHackMe - Pre-Security (COMPLETED)
 
 I’m currently working through the TryHackMe Pre-Security path and other foundational modules.
 
@@ -25,9 +32,10 @@ I’m currently working through the TryHackMe Pre-Security path and other founda
 | Linux Fundamentals pt.2   | log in to a Linux machine using SSH, file system interaction.                   |
 | Linux Fundamentals pt.3   | hands-on with some common utilities that you are likely to use day-to-day       |
 | Windows Fundamentals pt.1 | learning about the Windows desktop, the NTFS file system, UAC and more          | 
-| Windows Fundamentals pt2  | Continuation of Pt1... msconfig, perfmon, resmon, etc...                        |
+| Windows Fundamentals pt.2 | Continuation of Pt1... msconfig, perfmon, resmon, etc...                        |
+| Windows Fundamentals pt.3 | Continuation of windows fundamentals.                                           |
 
-## Badges
+### Badges
 - [How the Web Works](https://tryhackme.com/franz.cabigas/badges/world-wide-web)
 - [World Wide Web fundamentals](https://tryhackme.com/franz.cabigas/badges/web-fund)
 - [Networking fundamentals](https://tryhackme.com/franz.cabigas/badges/network-fundamentals)
