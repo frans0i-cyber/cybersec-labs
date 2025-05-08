@@ -1,6 +1,9 @@
-# 🧠 TryHackMe Journey - Pre-Security Path
+# 🧠 TryHackMe Journey - Pre-Security Path (COMPLETED) 
+
+Certificate link: (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NZV1K1PJ2D.png)
 
 Currently working on the **Pre-Security** path on TryHackMe.  
+
 Here's my recent progress:
 
 ## ✅ Completed Modules
