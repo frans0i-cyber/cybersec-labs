@@ -9,3 +9,6 @@ This folder includes Python scripts and notes for learning and practicing automa
 - Practice challenges
 
 > Focus is on automation, scripting, and problem-solving.
+
+## Projects
+- Calculator
