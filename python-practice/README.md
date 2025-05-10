@@ -12,3 +12,4 @@ This folder includes Python scripts and notes for learning and practicing automa
 
 ## Projects
 - Calculator
+- Love notes <3
