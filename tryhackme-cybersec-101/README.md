@@ -6,6 +6,9 @@ This repository contains my personal notes, write-ups, and scripts from the **Cy
 
 ## ✅ Recently Completed Modules
 
+- 🔹 **Search Skills**  
+  Learn to efficiently search the Internet and use specialized search engines and technical docs.
+  
 - 🔹 **Defensive Security Intro**  
   Learned about Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.
 
