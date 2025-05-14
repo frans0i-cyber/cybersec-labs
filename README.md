@@ -3,10 +3,11 @@
 Welcome to my personal cybersecurity labs repository! This is where I document my hands-on learning journey through platforms like TryHackMe, along with Linux, Python, and automation experiments.
 
 ## 🧭 Learning Path: TryHackMe - Cyber Security 101
-| Module Name               | Description                                                                     |
-|---------------------------|---------------------------------------------------------------------------------|
-| Offensive Security        | Ethical hacking basics and legal web exploitation                               |
-| Defensive Security        | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                      |
+| Module Name               | Description                                                                                      |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| Offensive Security        | Ethical hacking basics and legal web exploitation                                                |
+| Defensive Security        | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                                       |
+| Search Skills             | Learn to efficiently search the Internet and use specialized search engines and technical docs.  |
 
 ### Badges
 - [sample](link)
