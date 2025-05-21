@@ -6,6 +6,9 @@ This repository contains my personal notes, write-ups, and scripts from the **Cy
 
 ## ✅ Recently Completed Modules
 
+- 🔹 **Active Directory**  
+  This room will introduce the basic concepts and functionality provided by Active Directory.
+  
 - 🔹 **Search Skills**  
   Learn to efficiently search the Internet and use specialized search engines and technical docs.
   
