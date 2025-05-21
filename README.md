@@ -8,6 +8,7 @@ Welcome to my personal cybersecurity labs repository! This is where I document m
 | Offensive Security        | Ethical hacking basics and legal web exploitation                                                |
 | Defensive Security        | Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM                                       |
 | Search Skills             | Learn to efficiently search the Internet and use specialized search engines and technical docs.  |
+| Active Directory          | This room will introduce the basic concepts and functionality provided by Active Directory.      |
 
 ### Badges
 - [sample](link)
