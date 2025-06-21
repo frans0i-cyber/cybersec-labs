@@ -5,7 +5,8 @@ I'm currently preparing for the **CompTIA Security+** certification using resour
 Security+ is a globally recognized certification that validates essential cybersecurity knowledge and skills. It focuses on practical security problem-solving and is often considered the first step for those entering the cybersecurity field.
 
 ### Finished Lessons ✅
-1. Lesson 1 - Security Controls 
+1. Lesson 1 - Security Controls
+2. Lesson 2 - CIA Triad
 
 ### Study Focus (Based on CompTIA SY0-701 Objectives):
 - **Attacks, Threats, and Vulnerabilities** – Types of threats, social engineering, malware, and penetration testing.
