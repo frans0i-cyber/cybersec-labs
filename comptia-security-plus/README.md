@@ -9,6 +9,7 @@ Security+ is a globally recognized certification that validates essential cybers
 2. Lesson 2 - CIA Triad
 3. Lesson 3 - Non-repudiation
 4. Lesson 4 - Authentication, Authorization and Accounting
+5. Lesson 5 - Gap Analysis
 
 ### Study Focus (Based on CompTIA SY0-701 Objectives):
 - **Attacks, Threats, and Vulnerabilities** – Types of threats, social engineering, malware, and penetration testing.
