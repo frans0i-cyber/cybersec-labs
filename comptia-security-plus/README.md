@@ -11,6 +11,7 @@ Security+ is a globally recognized certification that validates essential cybers
 4. Lesson 4 - Authentication, Authorization and Accounting
 5. Lesson 5 - Gap Analysis
 6. Lesson 6 - Zero Trust
+7. Lesson 7 - Physical Security
 
 ### Study Focus (Based on CompTIA SY0-701 Objectives):
 - **Attacks, Threats, and Vulnerabilities** – Types of threats, social engineering, malware, and penetration testing.
